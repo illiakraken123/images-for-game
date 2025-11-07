@@ -1,3 +1,3 @@
 # images-for-game
 images for game
-/hitboxes/
+<img scr="/hitboxe/">
