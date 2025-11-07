@@ -1,3 +1,3 @@
 # images-for-game
 images for game
-<img scr="/hitboxe/">
+<img scr="hitboxes/1.коло.png">
